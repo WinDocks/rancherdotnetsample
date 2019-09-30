@@ -1,0 +1,9 @@
+apiVersion: v1
+name: WindocksSampleReader
+version: 1.0.1
+description: .Net App that reads data from Windocks SQL Server proxy
+home: https://www.windocks.com/
+icon: https://windocks.com/img/windockslogo.png
+maintainers:
+- name: WinDocks
+  email: support@windocks.com
